@@ -1,4 +1,5 @@
 extends partial/layout
+include _chaosbookContent.pug
 
 block site_title
     != page.title + " · " + config.title
@@ -13,3 +14,10 @@ block content
     +make_post(page, true)
     if page.comments
         include partial/comments
+
+block content
+  if page.layout === 'chaosbook'
+    +chaosbookContent()
+  else
+    .content
+      != page.content

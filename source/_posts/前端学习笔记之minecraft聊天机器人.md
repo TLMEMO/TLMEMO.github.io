@@ -6,7 +6,9 @@ tags:
 - 笔记
 - 前端
 - 实用资源
+- JavaScript
 ---
+因为用了nodejs,所以说这应该也算前端（不是
 
 最近一个月都在和朋友一起在玩minecraft，然后无意间了解到[mineflayer](https://github.com/PrismarineJS/mineflayer)这个工具可以来制作minecraft的假人。然后我觉得很有趣，这几天就制作了一个Minecraft的聊天机器人。
 虽然这种东西肯定是有人写过了，但是自己造轮子玩也没关系，就当练习下写js（我才不会说我对js的了解也就粗略读了下文档教程）
