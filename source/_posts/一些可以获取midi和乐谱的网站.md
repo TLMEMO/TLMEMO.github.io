@@ -19,7 +19,7 @@ https://flat.io/
 
 https://musescore.com
 乐谱制作软件musescore的官网，可以下别人做好上传的曲子，内容非常多。不过缺点是很多要开会员才能下载。
-然后musescrore还提供了一个把pdf乐谱转成musescore文件的功能，有需要的可以试试。
+然后musescrore还提供了一个把pdf乐谱转成musescore文件的功能，有需要的可以试试。(这个功能可以把下载到的谱子转换后拿musescore再转成mid，很方便)
 
 http://easypianoscore.jp/
 下载东方project乐谱的网站，不过新作的乐谱没人传，基本都附带一份mid文件。
