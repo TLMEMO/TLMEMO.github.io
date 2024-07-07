@@ -99,7 +99,7 @@ ignore:
 theme: anatole
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+## Docs: httpSs://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
 
